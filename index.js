@@ -1,4 +1,4 @@
-const imagePath     = "images"
+const imagePath     = ".pvroject/images"
 const imageArray    = [
     "Anya\ Forger.jpg",
     "Anya\ Forger\ \(1\).jpg",
